@@ -1,1 +1,1 @@
-# Addmission_System_using_Php-
+# Addmission_System_using_PHP
